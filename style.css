@@ -1,0 +1,65 @@
+.h1-home {
+    background-color: #f58ea0;
+    color: #DAD8D8;
+}
+
+.h2-home {
+    background-color: #DAD8D8;
+    color: #ec3feb;
+}
+
+.pink-para {
+    background-color: #ff69b4;
+}
+
+.h3-home {
+    background-color: #ebf64d;
+}
+
+.a-blue {
+    background-color: #1ed7f0;
+    list-style: none;
+}
+
+.a-blue a:hover{
+    color: #ec16bf;
+}
+
+.a-contact-home {
+    color: #1ed7f0;
+}
+
+/* These are for contact file */
+
+.contact-blue {
+    background-color: #1ed7f0;
+    list-style: circle;
+}
+
+.a-main-page {
+    color: #ec16bf;
+}
+
+.a-main-page:visited {
+    color: #362592;
+}
+
+.a-main-page:hover {
+    color: #118a35;
+}
+
+.hover-p:hover {
+    color: #118a35;
+}
+
+.a-blue a:active {
+    border: 2px red solid;
+}
+
+.a-contact-home:visited {
+    color: rebeccapurple;
+}
+
+.a-contact-home:hover {
+    color: #298635;
+}
